@@ -2,7 +2,7 @@
 
 Available on Huawei, Hornor smart watch, designed for 466*466 resolution. 
 
-![Alt text](preview/Starfield1690673801261.gif)
+![Alt text](preview/Starfield.gif)
 
 ![Alt text](preview/image.png)
 
